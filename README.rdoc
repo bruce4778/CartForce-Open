@@ -1,0 +1,3 @@
+= CartForce Open
+
+CartForce Open is available as a free download under the open source OSL 3.0 license and is recommended for expert developers and highly technical enthusiasts and hobbyists in non-mission critical environments. As this edition is unsupported it is intended to be used by those happy to spend time and resource solving issues independently.
